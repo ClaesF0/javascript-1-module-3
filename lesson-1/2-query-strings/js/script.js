@@ -24,7 +24,10 @@
 // Predict the age of a name
 // A simple API for predicting the age of a person given their name
 
-// https://agify.io/
+//catfact.ninja
+
+// https://agify.io/ 
+//enkel api for å gjette en persons alder basert på navn
 
 // https://api.agify.io?name=michael
 
